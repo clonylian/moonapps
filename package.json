@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "sass": "^1.69.5",
+    "uview-ui": "^2.0.36",
+    "vuedraggable": "^2.24.3"
+  }
+}
